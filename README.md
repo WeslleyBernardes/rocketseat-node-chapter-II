@@ -61,10 +61,29 @@ Progresso do curso:
     - [x] Criando repositório de categoria
     - [x] Listando as categorias
     - [x] Validando o cadastro de categoria
-- [ ] S.O.L.I.D.
-    - [] Pendente gerar documentação para consulta
+- [x] S.O.L.I.D.
+    - [ ] Pendente gerar documentação para consulta
+    - [x] Entendendo o S.O.L.I.D
+    - [x] Utilizando os principios de responsabilidade única (SRP)
+    - [x] Utilizando o principio da substituição de liskov (LSP)
 - [ ] Continuação da aplicação
+    - [x] Criando service de especificação e separando em módulos
+    - [x] Corrigindo as importações 
+    - [x] Criando repositório de específicação 
+    - [x] Criando UseCase de Categoria 
+    - [ ] Refatorando a listage de categoria
+    - [ ] Conhecendo Singleton Pattern
+    - [ ] Separando os repositórios
+    - [ ] Criando use case de especificação
+    - [ ] Refatorando as rotas
 - [ ] Trabalhando com Upload
+    - [ ] Conhecendo o multer
+    - [ ] Criando upload de arquivos
+    - [ ] Criando o use case para importar categoria
+    - [ ] Conhecendo o conceito de stream
+    - [ ] Fala dev
+    - [ ] Lendo os dados do upload
+    - [ ] Inserindo os dados do upload no repositório
 - [ ] Iniciando a documentação
 2. second
 3. third
