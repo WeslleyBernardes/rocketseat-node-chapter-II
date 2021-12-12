@@ -4,7 +4,7 @@
 - Tipagem estática
 
 # Eslint
-[eslint](https://www.notion.so/ESLint-e-Prettier-Trilha-Node-js-d3f3ef576e7f45dfbbde5c25fa662779#eaf6e8bdcabc4d809cdae302e29750da)
+[Tutorial eslint](https://www.notion.so/ESLint-e-Prettier-Trilha-Node-js-d3f3ef576e7f45dfbbde5c25fa662779#eaf6e8bdcabc4d809cdae302e29750da)
 
 # Start
 
@@ -52,14 +52,17 @@ Progresso do curso:
     - [x] Configurando ts-node-dev
     - [x] ESLint e Prettier
     - [x] Debugando a aplicação
-        - [ ] Requer documentação debug node vscode 
-    - [ ] Criando categoria
-    - [ ] Inserindo ID com uuid
-    - [ ] Inserindo tipagem para categoria
-    - [ ] Criando repositório de categoria
-    - [ ] Listando as categorias
-    - [ ] Validando o cadastro de categoria
+        - [ ] Pendente gerar documentação debug node vscode 
+    - [x] Criando categoria
+    - [x] Inserindo ID com uuid
+        - [ ] Pendente gerar documentação uuid
+        - [ ] Entender e documentar a diferença entre as versões 
+    - [x] Inserindo tipagem para categoria
+    - [x] Criando repositório de categoria
+    - [x] Listando as categorias
+    - [x] Validando o cadastro de categoria
 - [ ] S.O.L.I.D.
+    - [] Pendente gerar documentação para consulta
 - [ ] Continuação da aplicação
 - [ ] Trabalhando com Upload
 - [ ] Iniciando a documentação
