@@ -35,6 +35,13 @@ npm i ts-node-dev -D
 npm i uuid
 
 npm i @types/uuid -D
+
+npm i multer
+
+npm i @types/multer -D
+
+npm i csv-parse
+npm i @types/csv-parse
 ```
 
 # Progress
@@ -48,7 +55,7 @@ Progresso do curso:
     - [x] Criando Projeto com typescript
     - [x] Adicioanndo os tipos
     - [x] Definindo os parâmetros
-- [ ] Criando a API com NodeJS
+- [x] Criando a API com NodeJS
     - [x] Configurando ts-node-dev
     - [x] ESLint e Prettier
     - [x] Debugando a aplicação
@@ -66,25 +73,33 @@ Progresso do curso:
     - [x] Entendendo o S.O.L.I.D
     - [x] Utilizando os principios de responsabilidade única (SRP)
     - [x] Utilizando o principio da substituição de liskov (LSP)
-- [ ] Continuação da aplicação
+- [x] Continuação da aplicação
     - [x] Criando service de especificação e separando em módulos
     - [x] Corrigindo as importações 
     - [x] Criando repositório de específicação 
     - [x] Criando UseCase de Categoria 
-    - [ ] Refatorando a listage de categoria
-    - [ ] Conhecendo Singleton Pattern
-    - [ ] Separando os repositórios
-    - [ ] Criando use case de especificação
-    - [ ] Refatorando as rotas
+    - [x] Refatorando a listage de categoria
+    - [x] Conhecendo Singleton Pattern
+        - [ ] criar documentação de referência Singleton Pattern
+    - [x] Separando os repositórios
+    - [x] Criando use case de especificação
+    - [x] Refatorando as rotas
+        - [ ] criar documentação de referência routes do express
 - [ ] Trabalhando com Upload
-    - [ ] Conhecendo o multer
-    - [ ] Criando upload de arquivos
-    - [ ] Criando o use case para importar categoria
-    - [ ] Conhecendo o conceito de stream
-    - [ ] Fala dev
-    - [ ] Lendo os dados do upload
-    - [ ] Inserindo os dados do upload no repositório
+    - [x] Conhecendo o multer
+        - [ ] Documentar o multer
+    - [x] Criando upload de arquivos
+    - [x] Criando o use case para importar categoria
+    - [x] Conhecendo o conceito de stream
+    - [x] Fala dev
+    - [x] Lendo os dados do upload
+    - [x] Inserindo os dados do upload no repositório
 - [ ] Iniciando a documentação
+    - [ ] Conhecendo swagger
+    - [ ] Configurando o swagger
+    - [ ] Criando a documentação de categoria
+    - [ ] Criando a documentação de listagem de categorias
+    - [ ] Removendo os arquivos de upload
 2. second
 3. third
 
